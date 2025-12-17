@@ -1,6 +1,4 @@
 # ServerClientIpc
-Server-Client IPC
-
 **1. Source Code:**
 - Files:
      - server.cpp
