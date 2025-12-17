@@ -1,7 +1,7 @@
 # ServerClientIpc
 Server-Client IPC
 **1. Source Code:**
-   - Files:
+- Files:
      - server.cpp
      - client.cpp
      - config.h
